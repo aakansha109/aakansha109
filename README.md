@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey 👋<br>I'm Aakansha!<br><br>🔭 I'm currently doing an internship at KVGAI Tech<br>🌱 Am currently learning DSA<br>📍 Delhi<br>
+# Hey 👋 I'm Aakansha!
+>🔭 I'm currently doing an internship at KVGAI Tech<br>🌱 Am currently learning DSA<br>📍 Delhi<br>
 
 
 ## 🌐 Socials:
