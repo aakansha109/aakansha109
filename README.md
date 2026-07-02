@@ -1,5 +1,5 @@
 # Hey 👋 I'm Aakansha!
-🔭 AI developer Intern at KVGAI Tech<br>📍 Delhi<br>
+🔭 AI developer at KVGAI Tech<br>📍 Delhi<br>
 
 
 ## 🌐 Socials:
